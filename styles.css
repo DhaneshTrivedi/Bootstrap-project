@@ -24,7 +24,7 @@ p {
 }
 .navbar {
     padding-bottom: 2rem;
-    color: #fff;
+    color: white
 }
 
 .container-fluid {
@@ -38,13 +38,15 @@ p {
 
 .navbar-item {
     padding: 0 18px;
-    
 }
 
 .navbar-link {
     font-size: 1.5rem;
 }
 
+.nav-link{
+    color: white;
+}
 .download-button {
     margin: 5% 3% 5% 0%;
 }
